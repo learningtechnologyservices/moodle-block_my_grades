@@ -23,11 +23,12 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-	$string['pluginname']='My Grades block';
-	$string['my_grades']='My Grades';
-	$string['blocktitle']='My Grades';
-	$string['blockstring']='My Grades string';
-	$string['gradetblheader_course'] = 'Course';
-	$string['gradetblheader_grade'] = 'Grade';
-	$string['my_grades:addinstance'] = 'Add a new My Grades block';
-	$string['my_grades:myaddinstance'] = 'Add a new My Grades block to My home';
+$string['pluginname']='My Grades block';
+$string['my_grades']='My Grades';
+$string['blocktitle']='My Grades';
+$string['blockstring']='My Grades string';
+$string['gradetblheader_course'] = 'Course';
+$string['gradetblheader_grade'] = 'Grade';
+$string['my_grades:addinstance'] = 'Add a new My Grades block';
+$string['my_grades:myaddinstance'] = 'Add a new My Grades block to My home';
+$string['privacy:metadata'] = 'The My Grades block only shows data stored in other locations.';
